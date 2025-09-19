@@ -15,12 +15,35 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 👩🏻‍💻 Ana Laura
+# 👩🏼‍💻 Ana Laura
 
 **`Futura Desenvolvedora`**
 
 Me chamo Ana Laura, sou estudante de ADS na universidade positivo
+<p align="left">
+    <a href="https://www.instagram.com/analaurasd_/?next=%2F">
+        <img 
+            alt="instagram" 
+            title="Instagram" 
+            src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+        />
+    </a>
+    <a href="https://www.youtube.com/@larissakich">
+        <img 
+            alt="Linkedin" 
+            title="Linkedin" 
+            src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+        />
+    </a> 
+    <a href="https://github.com/AnaLauraly?tab=repositories&sort=stargazers">
+        <img 
+            alt="Total de estrelas" 
+            title="Total de estrelas GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+        />
+    </a>
 
+</p>
 
 
 ---
@@ -50,6 +73,14 @@ Me chamo Ana Laura, sou estudante de ADS na universidade positivo
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="C" 
+    title="C"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://icongr.am/devicon/c-original.svg?size=128&color=currentColor" 
 />
 
 

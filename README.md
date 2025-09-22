@@ -28,7 +28,7 @@ Me chamo Ana Laura, sou estudante de ADS na universidade positivo
             src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
         />
     </a>
-    <a href="https://www.youtube.com/@larissakich">
+    <a href="">
         <img 
             alt="Linkedin" 
             title="Linkedin" 
